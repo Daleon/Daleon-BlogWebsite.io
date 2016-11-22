@@ -1,0 +1,30 @@
+body{
+  background-color: #808180;
+  color: blue;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+header{
+  text-align: center;
+  font-size: 25px;
+  border-top: 2px double;
+  border-right: 2px double;
+  border-bottom: 2px double ;
+  border-left: 2px double;
+  background-color: #2F0F4F;
+  color: white;
+}
+p{
+  color: white;
+  font-size: 30px;
+}
+div{
+  text-align: left;
+}
+section{
+  float: left;
+}
+img{
+  float: right;
+  width: 25%;
+  margin-right: 84px;
+}
